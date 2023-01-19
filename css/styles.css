@@ -1,0 +1,22 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.8rem;
+}
+
+.header-flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul{
+    display: flex;
+    gap: 2.5rem;
+}
+
+li{
+    list-style-type: none;
+}
